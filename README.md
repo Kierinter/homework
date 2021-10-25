@@ -7,4 +7,4 @@
   要查看就点击这个[链接](https://kierinter.github.io/homework/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1/index.html)  
 ## 第二次作业
 
-我懒得排版就把卷子写成markdown了，在[这个网页]（）打开。 
+我懒得排版就把卷子写成markdown了，在[这个网页](https://github.com/Kierinter/homework/第二次作业/复试试卷.md)打开。 

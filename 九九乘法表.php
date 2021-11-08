@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html></html>
-<title>九九乘法表</title>
-<body>
+
 <?php
 
 for ($x=1;$x<=9;$x++)
@@ -13,7 +10,3 @@ for ($x=1;$x<=9;$x++)
     echo "<br>";
 }
 ?>
-
-</body>
-</html>
-

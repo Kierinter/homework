@@ -63,3 +63,13 @@
 ## mvc理解已交
 
 [这里](https://www.yuque.com/haoluo/notes/iscfnx)是语雀的文档
+
+## sql文件已交
+
+完成的截图git训练的截图:
+![图一](第十次作业/Screenshot%20(1).png)
+![图二](第十次作业/Screenshot2png.png)
+数据集表的截图:
+主键均为生成的订单号与商品id
+![订单](第十次作业/order.png)
+![商家](第十次作业/merchant.png)
